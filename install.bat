@@ -1,2 +1,2 @@
-npm i random
+npm i random body-parser express axios
 pause
