@@ -1,0 +1,135 @@
+{
+  "Character": {
+    "ID": "AthenaCharacter:CID_151_Athena_Commando_F_SoccerGirlD",
+    "Variants": [
+      [
+        {
+          "variants": [
+            {
+              "channel": "Pattern",
+              "active": "Mat0",
+              "owned": []
+            },
+            {
+              "channel": "Numeric",
+              "active": "Numeric.14",
+              "owned": []
+            },
+            {
+              "channel": "JerseyColor",
+              "active": "Color.Fortnite",
+              "owned": []
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  "Backpack": {
+    "ID": "AthenaBackpack:BID_208_CupidDarkMale",
+    "Variants": [
+      [
+        {
+          "variants": []
+        }
+      ]
+    ]
+  },
+  "Glider": {
+    "ID": "Glider_Warthog",
+    "Variants": [
+      {
+        "variants": []
+      }
+    ]
+  },
+  "Pickaxe": {
+    "ID": "Pickaxe_Lockjaw",
+    "Variants": [
+      {
+        "variants": []
+      }
+    ]
+  },
+  "SkyDiveContrail": {
+    "ID": null,
+    "Variants": [
+      {
+        "variants": []
+      }
+    ]
+  },
+  "Dance": {
+    "ID": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Variants": [
+      {
+        "variants": []
+      },
+      {
+        "variants": []
+      },
+      {
+        "variants": []
+      },
+      {
+        "variants": []
+      },
+      {
+        "variants": []
+      }
+    ]
+  },
+  "ItemWrap": {
+    "ID": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Variants": [
+      {
+        "variants": []
+      },
+      {
+        "variants": []
+      },
+      {
+        "variants": []
+      },
+      {
+        "variants": []
+      },
+      {
+        "variants": []
+      }
+    ]
+  },
+  "MusicPack": {
+    "ID": null,
+    "Variants": [
+      {
+        "variants": []
+      }
+    ]
+  },
+  "LoadingScreen": {
+    "ID": null,
+    "Variants": [
+      {
+        "variants": []
+      }
+    ]
+  },
+  "BannerIconTemplate": null,
+  "BannerColorTemplate": null,
+  "vbucks": 69,
+  "level": 69,
+  "favorites": {}
+}
