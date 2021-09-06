@@ -66,9 +66,7 @@ class backend {
     router() {
         this.app.use(
             (req, res, next) => {
-                var ip = req.headers['x-forwarded-for'] || req.socket.remoteAddress;
-                var ip = ip.replace('ffff', '').replace('::', '').replace(':', '');
-                console.log(`[${ip}] ${req.url}`);
+                console.log(`[${req.method}] ${req.url}`)
                 next();
             }
         )
